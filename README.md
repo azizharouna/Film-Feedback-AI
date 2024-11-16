@@ -1,9 +1,5 @@
 # Film Feedback AI
 
-### Short Description
-A machine learning project that leverages natural language processing to analyze and classify sentiments in movie reviews as positive or negative.
-
-## Project Description
 Film Feedback AI is a sentiment analysis project designed to classify movie reviews as positive or negative using machine learning techniques. The project utilizes natural language processing (NLP) methods to analyze the text of movie reviews and determine the sentiment expressed by the reviewer.
 
 ## Motivation
