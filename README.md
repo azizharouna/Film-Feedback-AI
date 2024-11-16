@@ -44,5 +44,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any inquiries, feel free to reach out:
-- **Name:** Abdoul Aziz Moussa
+-  Abdoul Aziz Moussa
 - **Email:** abdoulenergy@gmail.com
